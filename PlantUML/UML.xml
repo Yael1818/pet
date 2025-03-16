@@ -9,7 +9,7 @@ abstract class Pet {
     + makeSound() : String
     + eat() : String
 }
-bvhjvjhv
+
 class Dog {
     - breed : String
     + getBreed() : String
