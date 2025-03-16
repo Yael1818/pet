@@ -16,6 +16,7 @@ class Dog {
     + makeSound() : String
     + eat() : String
 }
+
 @startuml
 abstract class Pet {
     - name : String
